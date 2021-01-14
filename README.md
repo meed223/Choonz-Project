@@ -1,6 +1,9 @@
 # Choonz-Starter
 
-'Choonz' is a Music website, designed and tested as part of the final project for SDET.
+'Choonz' is a Music site similar to Spotify, designed as part of my final project with QA Academy.
+The goal of this project was to design both front-end and back-end of an application as well as to deliver a full test-suite as part of a team.
+
+This is a fork of the repository from the github I used during training onto my personal github.
 
 ## Concept
 
